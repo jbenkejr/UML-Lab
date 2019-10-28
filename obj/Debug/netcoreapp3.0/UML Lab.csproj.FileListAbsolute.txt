@@ -1,0 +1,11 @@
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\bin\Debug\netcoreapp3.0\UML Lab.exe
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\bin\Debug\netcoreapp3.0\UML Lab.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\bin\Debug\netcoreapp3.0\UML Lab.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\bin\Debug\netcoreapp3.0\UML Lab.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\bin\Debug\netcoreapp3.0\UML Lab.dll
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\bin\Debug\netcoreapp3.0\UML Lab.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\obj\Debug\netcoreapp3.0\UML Lab.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\obj\Debug\netcoreapp3.0\UML Lab.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\obj\Debug\netcoreapp3.0\UML Lab.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\obj\Debug\netcoreapp3.0\UML Lab.dll
+C:\Users\jbenk\Desktop\bootcamp2019\UML Lab\obj\Debug\netcoreapp3.0\UML Lab.pdb
